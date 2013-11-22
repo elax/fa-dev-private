@@ -6,5 +6,15 @@
 */
 
 $installed_extensions = array (
+  1 => 
+  array (
+    'package' => 'rep_tax',
+    'name' => 'rep_tax',
+    'version' => '-',
+    'available' => '',
+    'type' => 'extension',
+    'path' => 'modules/rep_tax',
+    'active' => 1,
+  ),
 );
 ?>
