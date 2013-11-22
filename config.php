@@ -31,16 +31,16 @@ if (!isset($path_to_root) || isset($_GET['path_to_root']) || isset($_POST['path_
 	$error_logfile = dirname(__FILE__).'/tmp/errors.log';
 	$debug 			= 1;	// show sql on database errors
 
-	$show_sql 		= 0;	// show all sql queries in page footer for debugging purposes
-	$go_debug 		= 0;	// set to 1 for basic debugging, or 2 to see also backtrace after failure.
+	$show_sql 		= 1;	// show all sql queries in page footer for debugging purposes
+	$go_debug 		= 1;	// set to 1 for basic debugging, or 2 to see also backtrace after failure.
 	$pdf_debug 		= 0;	// display pdf source instead reports for debugging when $go_debug!=0
 	// set $sql_trail to 1 only if you want to perform bugtracking sql trail
 	// Warning: this produces huge amount of data in sql_trail table.
 	// Don't forget switch the option off and flush the table manually after 
 	// trail, or your future backup files are overloaded with unneeded data.
 	//
-	$sql_trail 		= 0; // save all sql queries in sql_trail
-	$select_trail 	= 0; // track also SELECT queries
+	$sql_trail 		= 1; // save all sql queries in sql_trail
+	$select_trail 	= 1; // track also SELECT queries
 	if ($go_debug > 0)
 	{
 		error_reporting(-1);
