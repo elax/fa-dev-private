@@ -1,0 +1,49 @@
+[29-Nov-2013 16:13:38 UTC] 0:admin:session.inc:372: include_once(./tmp/faillog.php): failed to open stream: No such file or directory
+[29-Nov-2013 16:13:38 UTC] 0:admin:session.inc:372: include_once(): Failed opening './tmp/faillog.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear')
+[29-Nov-2013 16:13:40 UTC] 0:admin:session.inc:372: include_once(../tmp/faillog.php): failed to open stream: No such file or directory
+[29-Nov-2013 16:13:40 UTC] 0:admin:session.inc:372: include_once(): Failed opening '../tmp/faillog.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear')
+[29-Nov-2013 16:16:57 UTC] 0:admin:session.inc:372: include_once(../tmp/faillog.php): failed to open stream: No such file or directory
+[29-Nov-2013 16:16:57 UTC] 0:admin:session.inc:372: include_once(): Failed opening '../tmp/faillog.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear')
+[29-Nov-2013 16:17:04 UTC] 0:admin:session.inc:372: include_once(../tmp/faillog.php): failed to open stream: No such file or directory
+[29-Nov-2013 16:17:04 UTC] 0:admin:session.inc:372: include_once(): Failed opening '../tmp/faillog.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear')
+[29-Nov-2013 16:17:05 UTC] 0:admin:JsHttpRequest.php:470: mb_convert_encoding(): Illegal character encoding specified
+[29-Nov-2013 16:17:05 UTC] 0:admin:JsHttpRequest.php:470: mb_convert_encoding(): Illegal character encoding specified
+[29-Nov-2013 16:17:05 UTC] 0:admin:JsHttpRequest.php:470: mb_convert_encoding(): Illegal character encoding specified
+[29-Nov-2013 16:17:05 UTC] 0:admin:JsHttpRequest.php:470: mb_convert_encoding(): Illegal character encoding specified
+[29-Nov-2013 16:17:05 UTC] 0:admin:JsHttpRequest.php:470: mb_convert_encoding(): Illegal character encoding specified
+[29-Nov-2013 16:17:05 UTC] 0:admin:JsHttpRequest.php:470: mb_convert_encoding(): Illegal character encoding specified
+[29-Nov-2013 16:17:05 UTC] 0:admin:JsHttpRequest.php:470: mb_convert_encoding(): Illegal character encoding specified
+[29-Nov-2013 16:17:05 UTC] 0:admin:JsHttpRequest.php:470: mb_convert_encoding(): Illegal character encoding specified
+[29-Nov-2013 16:17:05 UTC] 0:admin:JsHttpRequest.php:470: mb_convert_encoding(): Illegal character encoding specified
+[29-Nov-2013 16:17:05 UTC] 0:admin:JsHttpRequest.php:470: mb_convert_encoding(): Illegal character encoding specified
+[29-Nov-2013 16:17:05 UTC] 0:admin:JsHttpRequest.php:470: mb_convert_encoding(): Illegal character encoding specified
+[29-Nov-2013 16:17:05 UTC] 0:admin:JsHttpRequest.php:470: mb_convert_encoding(): Illegal character encoding specified
+[29-Nov-2013 16:17:05 UTC] 0:admin:JsHttpRequest.php:470: mb_convert_encoding(): Illegal character encoding specified
+[29-Nov-2013 16:17:15 UTC] 0:admin:session.inc:372: include_once(../tmp/faillog.php): failed to open stream: No such file or directory
+[29-Nov-2013 16:17:15 UTC] 0:admin:session.inc:372: include_once(): Failed opening '../tmp/faillog.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear')
+[29-Nov-2013 16:17:16 UTC] 0::session.inc:372: include_once(./tmp/faillog.php): failed to open stream: No such file or directory
+[29-Nov-2013 16:17:16 UTC] 0::session.inc:372: include_once(): Failed opening './tmp/faillog.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear')
+[29-Nov-2013 16:17:16 UTC] 0::session.inc:372: include_once(./tmp/faillog.php): failed to open stream: No such file or directory
+[29-Nov-2013 16:17:16 UTC] 0::session.inc:372: include_once(): Failed opening './tmp/faillog.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear')
+[29-Nov-2013 16:31:58 UTC] Rounding error 40 encountered for trans_type:20,trans_no:1
+[29-Nov-2013 16:35:33 UTC] Rounding error 20 encountered for trans_type:20,trans_no:1
+[29-Nov-2013 16:37:01 UTC] Rounding error -30 encountered for trans_type:11,trans_no:1
+[29-Nov-2013 16:43:06 UTC] Rounding error -30 encountered for trans_type:11,trans_no:1
+[29-Nov-2013 16:52:35 UTC] Rounding error -30 encountered for trans_type:11,trans_no:1
+[29-Nov-2013 16:54:04 UTC] Rounding error -30 encountered for trans_type:11,trans_no:1
+[29-Nov-2013 17:03:28 UTC] Rounding error 28.57 encountered for trans_type:10,trans_no:1
+[29-Nov-2013 17:03:37 UTC] Rounding error -30 encountered for trans_type:11,trans_no:1
+[29-Nov-2013 17:06:08 UTC] Rounding error 28.57 encountered for trans_type:10,trans_no:1
+[29-Nov-2013 17:06:17 UTC] Rounding error -30 encountered for trans_type:11,trans_no:1
+[29-Nov-2013 17:08:22 UTC] Rounding error -30 encountered for trans_type:11,trans_no:1
+[29-Nov-2013 17:14:42 UTC] Rounding error -30 encountered for trans_type:11,trans_no:1
+[29-Nov-2013 17:19:54 UTC] Rounding error -27 encountered for trans_type:11,trans_no:1
+[29-Nov-2013 17:22:27 UTC] Rounding error -27 encountered for trans_type:11,trans_no:1
+[29-Nov-2013 17:34:38 UTC] Rounding error -55.57 encountered for trans_type:11,trans_no:1
+[29-Nov-2013 17:37:36 UTC] Rounding error -1.29 encountered for trans_type:11,trans_no:1
+[29-Nov-2013 17:40:44 UTC] Rounding error -1.29 encountered for trans_type:11,trans_no:1
+[29-Nov-2013 21:09:30 UTC] Rounding error -0.85 encountered for trans_type:11,trans_no:2
+[29-Nov-2013 21:16:55 UTC] Rounding error -18.8 encountered for trans_type:11,trans_no:3
+[29-Nov-2013 21:28:54 UTC] Rounding error -351.06 encountered for trans_type:11,trans_no:4
+[30-Nov-2013 09:31:29 UTC] 0:admin:gl_db_trans.inc:191: Missing argument 6 for get_gl_balance_from_to(), called in /vagrant-www/fa/gl/inquiry/gl_account_inquiry.php on line 164 and defined
+[30-Nov-2013 09:43:14 UTC] 0:admin:banking.inc:158: Missing argument 9 for exchange_variation(), called in /vagrant-www/fa/sales/includes/db/custalloc_db.inc on line 310 and defined
