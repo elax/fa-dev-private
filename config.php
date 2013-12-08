@@ -84,10 +84,10 @@ if (!isset($path_to_root) || isset($_GET['path_to_root']) || isset($_POST['path_
 	$save_report_selections = 0;
 
 	/* use popup windows for views */
-	$use_popup_windows = 1;
+	$use_popup_windows = 0;
 
 	/* use date picker for all date fields */
-	$use_date_picker = 1;
+	$use_date_picker = 0;
 
 	/* use Audit Trails in GL */
 	/* This variable is deprecated. Setting this to 1, will stamp the user name in the memo fields in GL */

@@ -26,7 +26,7 @@ $db_connections = array (
     'host' => 'localhost',
     'dbuser' => 'root',
     'dbpassword' => '',
-    'dbname' => 'fa',
+    'dbname' => 'fa_behat',
     'tbpref' => '0_',
   ),
 );
